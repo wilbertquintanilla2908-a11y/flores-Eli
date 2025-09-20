@@ -32,12 +32,12 @@ var lyricsData = [
   { text: "Apaga el teléfono y desaparezca por un momento/And take the phone off the hook and disappear for a while", time: 142 },
   { text: "Está todo bien, puedes permitirse perder un día o dos/It's all right, you can afford to lose a day or two", time: 146 },
   { text: "¿Cuándo te darás cuenta? Viena te espera/When will you realize Vienna waits for you?", time: 150 },
-  { text: "Sabes que cuando la verdad está dicha/You know that when the truth is told", time: 154 },
-  { text: "Puedes lograr lo que quieras o puedes solo envejecer/That you can get what you want or you can just get old", time: 160 },
-  { text: "Vas a comenzar antes de siquiera llegar a la mitad/You're gonna kick off before you even get halfway through", time: 164 },
-  { text: "¿Por qué no te das cuenta? Viena te espera/Why don't you realize Vienna waits for you?", time: 168 },
-  { text: "¿Cuándo te darás cuenta? Viena te espera/When will you realize Vienna waits for you", time: 174 },
-  { text: "I Love You Elisma.", time: 178 },
+  { text: "Sabes que cuando la verdad está dicha/You know that when the truth is told", time: 156 },
+  { text: "Puedes lograr lo que quieras o puedes solo envejecer/That you can get what you want or you can just get old", time: 162 },
+  { text: "Vas a comenzar antes de siquiera llegar a la mitad/You're gonna kick off before you even get halfway through", time: 166 },
+  { text: "¿Por qué no te das cuenta? Viena te espera/Why don't you realize Vienna waits for you?", time: 172 },
+  { text: "¿Cuándo te darás cuenta? Viena te espera/When will you realize Vienna waits for you", time: 176 },
+  { text: "I Love You Elisma.", time: 180 },
 ];
 
 // Animar las letras
